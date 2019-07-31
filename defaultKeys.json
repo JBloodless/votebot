@@ -1,0 +1,76 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Наташа Ж."
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Карина Ч."
+        },
+        "color": "primary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Марина П."
+      },
+      "color": "primary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Настя К."
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Валя Ч."
+      },
+      "color": "primary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Катя К."
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Ульяна М."
+        },
+        "color": "primary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Виолетта П."
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Лера Л."
+      },
+      "color": "primary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "Наташа У."
+      },
+      "color": "primary"
+    }]
+
+  ]
+}
